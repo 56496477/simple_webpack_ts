@@ -1,0 +1,1 @@
+export const blobToUrl = (blob) => window.URL.createObjectURL(blob);
